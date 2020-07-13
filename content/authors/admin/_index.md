@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: JieJiang
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Solar Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Beihang University
+  url: "https://www.buaa.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include Solar and stellar physics
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Magnetohydrodynamics in solar/stellarinterior
+- Physics based prediction of solar cycle
+- Long-term solar variabilityand its effects in near-Earth space and climate
+- Stellar magnetic activity
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in SolarPhysics
+    institution: National Astronomical Observatories, CAS
+    year: 2007
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
