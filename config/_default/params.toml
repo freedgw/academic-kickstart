@@ -214,8 +214,8 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 [members]
- Jie Jiang progessor
- Wei Guo postgraduate
+ #Jie Jiang progessor
+ #Wei Guo postgraduate
 ############################
 ## Comments
 ############################
