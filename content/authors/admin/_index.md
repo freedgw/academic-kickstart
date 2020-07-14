@@ -29,9 +29,7 @@ education:
   - course: PhD in SolarPhysics
     institution: National Astronomical Observatories, CAS
     year: 2007
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+ 
 
     
 # Social/Academic Networking
