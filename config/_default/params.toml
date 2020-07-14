@@ -97,7 +97,7 @@ address = {street = "37 Xueyuan road", city = "Beijing", region = "Beijing", pos
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.982648", longitude = "116.349749"}
+coordinates = {latitude = "40.151463", longitude = "116.272000"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
