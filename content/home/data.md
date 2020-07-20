@@ -1,9 +1,10 @@
 +++
-widget = "data"
+# Data widget.
+widget = "data"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active=true
+active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
-
++++
 # ... Put Your Section Options Here (title etc.) ...
 
 [design]
