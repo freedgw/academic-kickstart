@@ -1,6 +1,6 @@
 widget = "data"
 headless = true  # This file represents a page section.
-weight = 140  # Order that this section will appear.
+weight = 130  # Order that this section will appear.
 
 # ... Put Your Section Options Here (title etc.) ...
 
