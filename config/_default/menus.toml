@@ -28,7 +28,7 @@
   url = "#members"
   weight = 50
   [[main]]
-  name = "data"
+  name = "Data"
   url = "#data"
   weight = 60
 [[main]]
