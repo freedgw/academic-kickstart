@@ -19,3 +19,7 @@ $\alpha+\beta=\gamma$
 ## code
 ```python
 print("hello world!")
+```
+- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
